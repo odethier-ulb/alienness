@@ -1,0 +1,2 @@
+# nodes_lite.dmp.gz: extraction of the 2 first columns (tax_id/parent tax_id) of the file nodes.dmp extracted
+# from new_taxdump.tar.gz ( https://ftp.ncbi.nih.gov/pub/taxonomy/new_taxdump/ ) downloaded on 2024-10-03.
